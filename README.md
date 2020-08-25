@@ -13,5 +13,5 @@ The project consist of the following files:
  -> The code for the extra fields
 - Custome-invoice.odt <br>
  -> The invoice template file for dolibarr
-- DownloadProject.zip<br>
+- DownloadProject.rar<br>
  -> Compressed files to download. The documentation is in pdf format for easy reading.
