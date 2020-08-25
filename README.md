@@ -5,13 +5,13 @@ This project is about a custome template invoice for dolibarr with greek standar
 <strong>Follow the steps in the Documentation-Steps file.</strong>
 
 The project consist of the following files:
-- Documentation-Steps
+- Documentation-Steps<br>
  -> Explain how to create a module for the extra fields and how to upload the template invoice.
-- Info about the Layout of the invoice
+- Info about the Layout of the invoice <br>
  -> Tables that explains every field of the invoice 
-- Functions_invoice_subt.php
+- Functions_invoice_subt.php<br>
  -> The code for the extra fields
-- Custome-invoice.odt 
+- Custome-invoice.odt <br>
  -> The invoice template file for dolibarr
-- DownloadProject.zip
+- DownloadProject.zip<br>
  -> Compressed files to download. The documentation is in pdf format for easy reading.
